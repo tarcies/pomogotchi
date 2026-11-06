@@ -1,5 +1,7 @@
 # PROCESS JOURNAL POMOGOTCHI
 
+[Watch the demo](https://youtu.be/RktscHebXC0)
+
 ## 1 Introduction
 
 The Pomogotchi project is a portmanteau (a blending of two words) of the Pomodoro technique and the Tamagotchi concept. The goal of this project is to make focus and productivity more engaging by adding a playful element. The device also supports responsive elements, including environmental monitoring and task tracking.
